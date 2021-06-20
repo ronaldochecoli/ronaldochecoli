@@ -16,10 +16,9 @@ Ola,  !!! 👊
 
 <a href="url"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygkEF9_SAAueyBCrhH8D6DTysVX8ErJ5Og&usqp=CAU" align="rigth" height="50" width="50" ></a>
 <a href="url"><img src="https://blogdaqualidade.com.br/wp-content/uploads/2012/06/5s.jpg" align="rigth" height="50" width="50" ></a>
-
 <a href="url"><img src="https://slideplayer.com.br/83523/1/images/slide_1.jpg" align="rigth" height="50" width="50" ></a>
-<br>
 
+<br>
 <a href="url"><img src="https://img.olhardigital.com.br/wp-content/uploads/2021/02/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe829553.8964224815219374065349.png" align="left" height="38" width="38" ></a> 
 
 [Ronaldo Checoli](https://www.linkedin.com/in/ronaldochecoli-gestor/)
