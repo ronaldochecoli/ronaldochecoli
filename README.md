@@ -9,7 +9,7 @@ Ola,  !!! 👊
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" align="rigth" height="50" width="50" ></a>
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" align="rigth" height="50" width="50" ></a>
 <a href="url"><img src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg" align="rigth" height="50" width="50" ></a>
-<a href="url"><img src="https://lh3.googleusercontent.com/proxy/7JYWccv_U_fN6P2qpN-cjy5HheWibVXQ_ZB9d4e9C7bzFQgIFgv8h7_Cf9LoR9zC1R4IWpLRkkUiRCnwLBNY34qpAOsM1D_wHATQ1Bo-I4nptntw37v6KwBxDZRLnKOElolzzxHB5iZIfKyL" align="rigth" height="50" width="50" ></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" align="rigth" height="50" width="50" ></a>
 
 <br><br>
 
