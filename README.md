@@ -10,7 +10,7 @@ Ola,  !!! 👊
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" align="rigth" height="50" width="50" ></a>
 <a href="url"><img src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg" align="rigth" height="50" width="50" ></a>
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" align="rigth" height="50" width="50" ></a>
-
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/1920px-Kotlin_logo.svg.png" align="rigth" height="50" width="80" ></a>
 <br><br>
 
 ### Profissional de Gestão de Pessoas :
