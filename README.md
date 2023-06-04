@@ -13,11 +13,12 @@ Ola,  !!! 👊
 
 <br><br>
 
-### Profissional de Gestão de Pessoas :
+### Profissional de Gestão de Pessoas no GEMBA:
 
-<a href="url"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygkEF9_SAAueyBCrhH8D6DTysVX8ErJ5Og&usqp=CAU" align="rigth" height="30" width="30" ></a>
-<a href="url"><img src="https://blogdaqualidade.com.br/wp-content/uploads/2012/06/5s.jpg" align="rigth" height="30" width="30" ></a>
-<a href="url"><img src="https://sites.google.com/site/emarketingtextos/_/rsrc/1495579569343/t-p-m---manutencao-produtividade-total/AAEAAQAAAAAAAAjUAAAAJGQ2OTI2MTYxLTQ0MjktNGRiMy1hOTdiLTY5NWMzMjY1Zjg2YQ.png?height=202&width=400" align="rigth" height="30" width="50" ></a>
+<a href="url"><img src="https://i3.wp.com/d3hdigcjoguoy1.cloudfront.net/blog/2016/07/aplicar-lean-clinica-medica.png?w=1600&resize=1600,891" height="50" width="50" ></a>
+<a href="url"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygkEF9_SAAueyBCrhH8D6DTysVX8ErJ5Og&usqp=CAU" align="rigth" height="50" width="50" ></a>
+<a href="url"><img src="https://blogdaqualidade.com.br/wp-content/uploads/2012/06/5s.jpg" align="rigth" height="50" width="50" ></a>
+<a href="url"><img src="https://www.adolphoeletricista.com.br/wp-content/uploads/2017/12/logo_tpm_thumb2-570x350.png" align="rigth" height="50" width="80" ></a>
 
 <br>
 <a href="url"><img src="https://img.olhardigital.com.br/wp-content/uploads/2021/02/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe829553.8964224815219374065349.png" align="left" height="38" width="38" ></a> 
